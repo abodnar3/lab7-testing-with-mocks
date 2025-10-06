@@ -294,10 +294,8 @@ def test_logger(mock_logger):
 
     log_message = mock_logger.info.call_args[0][0]
 
-    assert "entity" in log_message
-    assert "0.85" in log_message
-    assert "0" in log_message
-    assert "10" in log_message
+    for keyword in ["entity", "0.85", "0", "10"]:
+        assert keyword in log_message
 
 
 
