@@ -2,7 +2,7 @@ from unittest import mock
 
 import pytest
 
-from presidio_anonymizer.operators import Encrypt, AESCipher
+from presidio_anonymizer.operators import Encrypt, AESCipher, OperatorType
 from presidio_anonymizer.entities import InvalidParamError
 
 
@@ -57,3 +57,6 @@ def test_given_verifying_an_invalid_length_bytes_key_then_ipe_raised(mock_encryp
 
 def test_operator_name():
     assert Encrypt().operator_name() == "encrypt"
+
+def test_operator_type():
+    assert Encrypt().operator_type() == OperatorType.Anonymize
