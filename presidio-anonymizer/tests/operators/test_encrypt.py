@@ -62,3 +62,17 @@ def test_operator_name():
 
 def test_operator_type():
     assert Encrypt().operator_type() == OperatorType.Anonymize
+
+@pytest.mark.parametrize(
+    "key",
+    [
+        "a" * 16,
+        "b" * 24,
+        "c" * 32,
+        b"a" * 16,
+        b"b" * 24,
+        b"c" * 32,
+    ],
+)
+def test_valid_keys(key):
+    Encrypt().validate(params={"key": key})
