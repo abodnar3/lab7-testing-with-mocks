@@ -17,9 +17,11 @@ Branches in this repo (with details):
     d4f7cb3 | Author: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Committer: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Date: 2025-10-06T22:55:13Z | Added test_operator_type function
     926113e | Author: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Committer: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Date: 2025-10-06T22:46:05Z | Added test_operator_name function
 - main
-  SHA: 23dbaa42cd48b089c1709b43d1fba28cf4472ad7
-  Commits: 3
+  SHA: a855925a24e82f77ab17718852d900e845f7ddcf
+  Commits: 11
   Recent commits:
-    23dbaa4 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T21:51:18Z | Auto-update branch-info.txt
-    d924f49 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T21:49:03Z | Auto-update branch-info.txt
-    822c7df | Author: Andrew Bodnar <232428806+abodnar3@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-06T17:48:50-04:00 | Initial commit
+    a855925 | Author: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Committer: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Date: 2025-10-06T23:27:45Z | Merge branch 'lab7'
+    b39a32b | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T23:26:01Z | Auto-update branch-info.txt
+    7da242d | Author: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Committer: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Date: 2025-10-06T23:21:06Z | Added test implementation to test_given_conflict_input_then_merged_correctly
+    3429404 | Author: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Committer: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Date: 2025-10-06T23:14:00Z | Added test_valid_keys function
+    50c7fed | Author: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Committer: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Date: 2025-10-06T23:06:52Z | Used a mock for is_valid_key_size to reach 100% coverage for encrypt.py
