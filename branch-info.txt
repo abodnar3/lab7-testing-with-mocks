@@ -8,20 +8,20 @@ Branches in this repo (with details):
     d924f49 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T21:49:03Z | Auto-update branch-info.txt
     822c7df | Author: Andrew Bodnar <232428806+abodnar3@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-06T17:48:50-04:00 | Initial commit
 - lab7
-  SHA: 7da242d2cd8992b59acf78fa6ed233ad9d48fc7b
-  Commits: 9
+  SHA: 8b6f1e04b79e9eb26ee514ea506d8377c43a26db
+  Commits: 11
   Recent commits:
+    8b6f1e0 | Author: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Committer: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Date: 2025-10-06T23:39:56Z | Changed keyword check in test_logger to a loop
+    00be2f8 | Author: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Committer: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Date: 2025-10-06T23:39:06Z | Changed assert called to called_once
     7da242d | Author: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Committer: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Date: 2025-10-06T23:21:06Z | Added test implementation to test_given_conflict_input_then_merged_correctly
     3429404 | Author: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Committer: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Date: 2025-10-06T23:14:00Z | Added test_valid_keys function
     50c7fed | Author: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Committer: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Date: 2025-10-06T23:06:52Z | Used a mock for is_valid_key_size to reach 100% coverage for encrypt.py
-    d4f7cb3 | Author: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Committer: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Date: 2025-10-06T22:55:13Z | Added test_operator_type function
-    926113e | Author: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Committer: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Date: 2025-10-06T22:46:05Z | Added test_operator_name function
 - main
-  SHA: a855925a24e82f77ab17718852d900e845f7ddcf
-  Commits: 11
+  SHA: e6c4702830da733a7195d5a3c2cf027a6ff4d107
+  Commits: 12
   Recent commits:
+    e6c4702 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T23:28:30Z | Auto-update branch-info.txt
     a855925 | Author: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Committer: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Date: 2025-10-06T23:27:45Z | Merge branch 'lab7'
     b39a32b | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T23:26:01Z | Auto-update branch-info.txt
     7da242d | Author: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Committer: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Date: 2025-10-06T23:21:06Z | Added test implementation to test_given_conflict_input_then_merged_correctly
     3429404 | Author: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Committer: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Date: 2025-10-06T23:14:00Z | Added test_valid_keys function
-    50c7fed | Author: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Committer: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Date: 2025-10-06T23:06:52Z | Used a mock for is_valid_key_size to reach 100% coverage for encrypt.py
