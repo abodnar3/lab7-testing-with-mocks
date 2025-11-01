@@ -1,5 +1,14 @@
 Branches in this repo (with details):
 
+- dependabot/docker/presidio-anonymizer/python-3.14-windowsservercore
+  SHA: 4d32b42588bcc78acb9ed9b081dd69d0ac683c76
+  Commits: 16
+  Recent commits:
+    4d32b42 | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-11-01T02:21:38Z | Bump python in /presidio-anonymizer
+    57f5afd | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T23:45:10Z | Auto-update branch-info.txt
+    4cd0b96 | Author: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Committer: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Date: 2025-10-06T23:37:43Z | Made changes to the test implementation in test_anonymizer_engine.py and test_recognizer_result.py
+    c6ad73c | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T23:40:22Z | Auto-update branch-info.txt
+    e6c4702 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T23:28:30Z | Auto-update branch-info.txt
 - dependabot/github_actions/actions/checkout-5
   SHA: 599c674cce9c3e832835e85e1b1fbd5b6d075fe7
   Commits: 3
@@ -17,11 +26,11 @@ Branches in this repo (with details):
     3429404 | Author: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Committer: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Date: 2025-10-06T23:14:00Z | Added test_valid_keys function
     50c7fed | Author: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Committer: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Date: 2025-10-06T23:06:52Z | Used a mock for is_valid_key_size to reach 100% coverage for encrypt.py
 - main
-  SHA: 4cd0b9691658c030ba05f54940e4d971b534c63e
-  Commits: 14
+  SHA: 57f5afd99fa38c18bdbae511eb0b728082aa129b
+  Commits: 15
   Recent commits:
+    57f5afd | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T23:45:10Z | Auto-update branch-info.txt
     4cd0b96 | Author: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Committer: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Date: 2025-10-06T23:37:43Z | Made changes to the test implementation in test_anonymizer_engine.py and test_recognizer_result.py
     c6ad73c | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T23:40:22Z | Auto-update branch-info.txt
     e6c4702 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T23:28:30Z | Auto-update branch-info.txt
     a855925 | Author: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Committer: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Date: 2025-10-06T23:27:45Z | Merge branch 'lab7'
-    b39a32b | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T23:26:01Z | Auto-update branch-info.txt
