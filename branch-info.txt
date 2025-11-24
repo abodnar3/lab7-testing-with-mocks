@@ -9,13 +9,15 @@ Branches in this repo (with details):
     4cd0b96 | Author: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Committer: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Date: 2025-10-06T23:37:43Z | Made changes to the test implementation in test_anonymizer_engine.py and test_recognizer_result.py
     c6ad73c | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T23:40:22Z | Auto-update branch-info.txt
     e6c4702 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T23:28:30Z | Auto-update branch-info.txt
-- dependabot/github_actions/actions/checkout-5
-  SHA: 599c674cce9c3e832835e85e1b1fbd5b6d075fe7
-  Commits: 3
+- dependabot/github_actions/actions/checkout-6
+  SHA: 114305e6095aaf63fcd143e3b1c271df09b8cc66
+  Commits: 17
   Recent commits:
-    599c674 | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-06T21:51:09Z | Bump actions/checkout from 3 to 5
-    d924f49 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T21:49:03Z | Auto-update branch-info.txt
-    822c7df | Author: Andrew Bodnar <232428806+abodnar3@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-06T17:48:50-04:00 | Initial commit
+    114305e | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-11-24T02:29:40Z | Bump actions/checkout from 3 to 6
+    e99a813 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-11-01T02:21:46Z | Auto-update branch-info.txt
+    57f5afd | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T23:45:10Z | Auto-update branch-info.txt
+    4cd0b96 | Author: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Committer: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Date: 2025-10-06T23:37:43Z | Made changes to the test implementation in test_anonymizer_engine.py and test_recognizer_result.py
+    c6ad73c | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T23:40:22Z | Auto-update branch-info.txt
 - lab7
   SHA: 8b6f1e04b79e9eb26ee514ea506d8377c43a26db
   Commits: 11
@@ -26,11 +28,11 @@ Branches in this repo (with details):
     3429404 | Author: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Committer: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Date: 2025-10-06T23:14:00Z | Added test_valid_keys function
     50c7fed | Author: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Committer: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Date: 2025-10-06T23:06:52Z | Used a mock for is_valid_key_size to reach 100% coverage for encrypt.py
 - main
-  SHA: 57f5afd99fa38c18bdbae511eb0b728082aa129b
-  Commits: 15
+  SHA: e99a813af50c0e9de3efd781880b98d88eecff20
+  Commits: 16
   Recent commits:
+    e99a813 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-11-01T02:21:46Z | Auto-update branch-info.txt
     57f5afd | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T23:45:10Z | Auto-update branch-info.txt
     4cd0b96 | Author: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Committer: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Date: 2025-10-06T23:37:43Z | Made changes to the test implementation in test_anonymizer_engine.py and test_recognizer_result.py
     c6ad73c | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T23:40:22Z | Auto-update branch-info.txt
     e6c4702 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T23:28:30Z | Auto-update branch-info.txt
-    a855925 | Author: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Committer: Andrew Bodnar <abodnar3@users.noreply.githubg.com> | Date: 2025-10-06T23:27:45Z | Merge branch 'lab7'
